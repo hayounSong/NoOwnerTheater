@@ -10,3 +10,4 @@
 
 Django,Python,html,css,js 
 
+![image](https://user-images.githubusercontent.com/39684920/169747475-619de321-6658-47f8-ad63-bdc5738a3085.png)
