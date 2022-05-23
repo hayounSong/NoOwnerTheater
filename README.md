@@ -10,4 +10,3 @@
 
 Django,Python,html,css,js,Ajax
 
-![image](https://user-images.githubusercontent.com/39684920/169747549-b3968518-5d8b-43ec-87e8-8e55b00043e6.png)
