@@ -8,6 +8,6 @@
 
 광범위한 접근성을 가진 커뮤니티에서 유저와 제작사 사이에서 원활한 소통을 하고 주인없는 영화관을 통해 편하게 감상하고 리뷰 역시 남겨 보세요!
 
-Django,Python,html,css,js 
+Django,Python,html,css,js,Ajax
 
 ![image](https://user-images.githubusercontent.com/39684920/169747549-b3968518-5d8b-43ec-87e8-8e55b00043e6.png)
