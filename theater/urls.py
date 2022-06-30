@@ -51,8 +51,8 @@ urlpatterns = [
    # path('summernote/', include('django_summernote.urls')),
    path('review/<int:pk>/replyUpdate/', views.review_replyUpdate, name='review_replyUpdate'),
    path("preview/<int:pk>/replyUpdate/", views.replyUpdate, name='replyUpdate'),
-   (r'^summernote/', include('django_summernote.urls')),
    path('likes_ajax/', views.likes_ajax, name='likes_ajax'),
+   path('summernote/', include('django_summernote.urls')),
    #path('preview/<int:pk>/likes_ajax/', views.likes_ajax, name='likes_ajax'),
 
    #path('review_likes/', views.review_likes, name='review_likes'),
