@@ -1,7 +1,6 @@
 from django import forms
 from .models import Business, Movie,Review
 from django.forms import ChoiceField, ImageField, ModelForm,FileInput,TextInput, EmailInput, NumberInput,DateInput,Select
-from ckeditor_uploader.widgets import CKEditorUploadingWidget
 from django_summernote.widgets import SummernoteWidget
 from choiceinput.widgets import ChoiceInput
 class MovieForm(forms.ModelForm):
