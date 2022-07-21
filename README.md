@@ -17,19 +17,19 @@ https://noownertheater.cf
 
 # 🧭 주인 없는 영화관이란?
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4156ce89-2a64-48a6-995d-c92ee4ae8d00/Untitled.png)
+![image](https://user-images.githubusercontent.com/39684920/180285538-5b8ef016-f35b-40ce-9f9b-eebcedde358f.png)
 
 기본적으로, 독립 영화, 독립 영상물을 취급하는 영화 리뷰, 커뮤니티 서비스
 
 # 🔭 접근성
+![image](https://user-images.githubusercontent.com/39684920/180285583-d3afd949-9898-4e62-89e2-abb7a2625711.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd2b6f9d-b701-4117-b025-e9b033addee4/Untitled.png)
 
 배급사, 기획사 없이도 누구나 쉽게 자신의 영상을 등록할 수 있고, 이를 위한 클라우딩 펀딩까지 지원. 유저들이 후기를 남기거나 댓글같은 활동을 통해 얻는 포인트를, 유료 영화 시청이나 클라우드 펀딩에 사용 가능
 
 # ⚖️ 온라인 시사회
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91507896-beae-48df-9c16-c69e146266e5/Untitled.png)
+![image](https://user-images.githubusercontent.com/39684920/180285639-ce8d3281-aea4-4645-833b-81fe884f5705.png)
 
 클라우드 펀딩 중이거나 아직 미개봉 작품의 경우 온라인 시사회 기능을 제공한다. 그 시사회 작품을
 클라우드 펀딩이나 신청을 통해 시청하고, 제작 측과 직접 채팅을 통해 커뮤니케이션이 가능하다. 따라서 즉각적인 피드백을 제작 측에서는 받을 수 있고, 소비자측에서는 미리 독립 영화를 감상하는  온라인 시사회가 가능하다. 독립 영화이기에 가능하다고 생각되는 기능.
